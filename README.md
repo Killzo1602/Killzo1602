@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Killzo1602
-- 👀 I’m interested in Swift
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Swift, JavaScript, HTML and CSS
+- 🌱 I’m currently learning JavaScript and frameworks
+- 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me DM
 
 <!---
