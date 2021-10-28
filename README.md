@@ -19,26 +19,26 @@
 <!-- ====================== IDE ======================== -->
 
 <h2 align="center">
-    𝙸𝙳𝙴<br><br>
+    ⚙️𝙸𝙳𝙴⚙️<br><br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"/>
  </h2>
 
 <!-- ====================== DESIGN ======================== -->
 <h2 align="center">
-    𝙳𝚎𝚜𝚒𝚐𝚗<br><br>
+   🖌️ 𝙳𝚎𝚜𝚒𝚐𝚗 🖌️<br><br>
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 </h2>
 
 <!-- ====================== GAMES ======================== -->
 <h2 align="center">
-    𝙶𝚊𝚖𝚎𝚜<br><br>
+  👾𝙶𝚊𝚖𝚎𝚜👾<br><br>
 <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/> 
 <a href="https://psnprofiles.com/KillzoOfficial"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a>  
 <a href="https://steamcommunity.com/id/KillzoOfficial/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a> </h2>
 
 <!-- ====================== EDUCATION ======================== -->
 <h2 align="center">
-    𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗<br><br>
+   :brain: 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗 :brain:<br><br>
 <a href="https://developer.mozilla.org/en-US/"><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/></a>
 <a href="https://www.udemy.com/user/cosmin-ciobanu-5/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
 <a href="https://www.freecodecamp.org/killzo"><img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a>
@@ -61,7 +61,7 @@
 
 
 <h2 align="center">
-  𝙴𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗 𝚊𝚗𝚍 𝚃𝚑𝚎𝚖𝚎 𝚝𝚑𝚊𝚝 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎<br><br>
+ 🔲 𝙴𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗 𝚊𝚗𝚍 𝚃𝚑𝚎𝚖𝚎 𝚝𝚑𝚊𝚝 𝚝𝚑𝚊𝚝 𝙸 𝚞𝚜𝚎 🔳 <br><br>
 </h2>  
 <details><summary> -- 𝙴𝚡𝚝𝚎𝚗𝚜𝚒𝚘𝚗𝚜 </summary><br>
 
