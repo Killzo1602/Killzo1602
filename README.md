@@ -26,7 +26,3 @@
 cosmin@github:~$ echo "Thanks for stopping by!"
 Thanks for stopping by!
 ```
-
-### GitHub activity
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Killzo1602&theme=github-compact&hide_border=true)](https://github.com/Killzo1602)
